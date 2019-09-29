@@ -1,0 +1,12 @@
+<!-- @author Haley Welliver
+strings.xml is a list of strings to be used in the dropdown menu of the spinner
+ -->
+<resources>
+    <string name="app_name">FaceMaker</string>
+
+    <string-array name="dropdown">
+        <item>Long</item>
+        <item>Curly</item>
+        <item>Pig Tails</item>
+    </string-array>
+</resources>
